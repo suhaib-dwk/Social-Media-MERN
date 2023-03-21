@@ -2,3 +2,4 @@
 .env
 .flaskenv*
 !.env.project
+node_modules
